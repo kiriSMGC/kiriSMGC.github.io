@@ -1,4 +1,4 @@
-"# kiriSMGC.github.io"
+"# kiriSMGC.github.io"<br>
 <br>
 ↓ブログを書いてみる。↓<br>
 https://kirismgc.github.io/<br>
