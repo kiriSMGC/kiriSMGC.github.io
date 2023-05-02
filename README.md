@@ -1,8 +1,8 @@
 "# kiriSMGC.github.io"
-
-↓ブログを書いてみる。↓
-https://kirismgc.github.io/
-
-jekyllをメインで使いつついろいろ試してます。
-
+<br>
+↓ブログを書いてみる。↓<br>
+https://kirismgc.github.io/<br>
+<br>
+jekyllをメインで使いつついろいろ試してます。<br>
+<br>
 # kiriSMGC.github.io
