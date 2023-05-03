@@ -56,3 +56,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+include:
+  - assets
+  
+source: .
+destination: ./_site
