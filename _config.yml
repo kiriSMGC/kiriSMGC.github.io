@@ -31,10 +31,13 @@ twitter_username: kiri_SMGC
 github_username:  kiriSMGC
 
 # Build settings
-theme: minima
+
+#theme: minima
+theme: jekyll-theme-scriptor
+
 plugins:
   - jekyll-feed
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
