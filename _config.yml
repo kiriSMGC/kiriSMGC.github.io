@@ -33,7 +33,11 @@ github_username:  kiriSMGC
 # Build settings
 
 #theme: minima
-theme: time-machine
+theme: jekyll-theme-time-machine
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-slate
+#theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
