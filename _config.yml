@@ -32,10 +32,12 @@ github_username:  kiriSMGC
 
 # Build settings
 
-theme: minima
+#theme: minima
+theme: time-machine
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 #permalink: /:categories/:title/
 # Exclude from processing.
 # The following items will not be processed, by default.
