@@ -32,10 +32,10 @@ github_username:  kiriSMGC
 
 # Build settings
 
-#theme: minima
+theme: minima
 #theme: jekyll-theme-time-machine
 #theme: jekyll-theme-cayman
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-minimal
 
